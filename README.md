@@ -1,11 +1,9 @@
-<html>
+<HTML>
 	<head>
-	<h1><title> My Favorite Food</title></h1>
-	</head>
-
-<body> 
-	<><p>Ice Cream	</p></h3>
-
+</head>
+	<h1><title> My Favorite Anime Series </title></h1>
+<body>
+	<center><h1><p> One Piece </p></center>
+<h3><p> "If I give up now, I'm going to regret it", "If you don't take risks, you can't create a future."
 </body>
-
-</html>
+</HTML>
