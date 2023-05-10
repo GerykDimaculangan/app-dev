@@ -1,7 +1,7 @@
 <HTML>
 	<head>
 </head>
-	<h1><title> My Favorite Anime Series </title></h1>
+	<h1> My Favorite Anime Series</h1>
 <body>
 	<center><h1><p> One Piece </p></center>
 	<MarginTop20px><center> Powered By:Geryk </p></h6></center>
